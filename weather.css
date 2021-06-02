@@ -1,0 +1,29 @@
+* {
+  background-color: rgb(106, 1, 167);
+  font-size: larger;
+}
+.app-wrap {
+  text-align: center;
+  margin-top: 5%;
+}
+.search-box {
+  border-radius: 15px 0px 15px 0px;
+  border-bottom: solid orange;
+  background-color: rgb(171, 99, 238);
+}
+.location {
+  margin-top: 5%;
+}
+main {
+  color: white;
+}
+.current {
+  margin-block: 5%;
+}
+.temp {
+  margin-block: 5%;
+  font-weight: 900;
+}
+.weather {
+  margin-bottom: 2%;
+}
